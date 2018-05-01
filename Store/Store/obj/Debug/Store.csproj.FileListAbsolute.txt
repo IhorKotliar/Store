@@ -1,0 +1,38 @@
+c:\users\29167\documents\visual studio 2013\Projects\Store\Store\bin\Debug\Store.exe.config
+c:\users\29167\documents\visual studio 2013\Projects\Store\Store\bin\Debug\DatabaseStore.mdf
+c:\users\29167\documents\visual studio 2013\Projects\Store\Store\bin\Debug\DatabaseStore_log.ldf
+c:\users\29167\documents\visual studio 2013\Projects\Store\Store\bin\Debug\Store.exe
+c:\users\29167\documents\visual studio 2013\Projects\Store\Store\bin\Debug\Store.pdb
+c:\users\29167\documents\visual studio 2013\Projects\Store\Store\obj\Debug\Store.csprojResolveAssemblyReference.cache
+c:\users\29167\documents\visual studio 2013\Projects\Store\Store\obj\Debug\Store.Form1.resources
+c:\users\29167\documents\visual studio 2013\Projects\Store\Store\obj\Debug\Store.Properties.Resources.resources
+c:\users\29167\documents\visual studio 2013\Projects\Store\Store\obj\Debug\Store.csproj.GenerateResource.Cache
+c:\users\29167\documents\visual studio 2013\Projects\Store\Store\obj\Debug\Store.exe
+c:\users\29167\documents\visual studio 2013\Projects\Store\Store\obj\Debug\Store.pdb
+c:\users\29167\documents\visual studio 2013\Projects\Store\Store\obj\Debug\Store.Form2.resources
+E:\Store\Store\bin\Debug\DatabaseStore.mdf
+E:\Store\Store\bin\Debug\DatabaseStore_log.ldf
+E:\Store\Store\bin\Debug\Store.exe.config
+E:\Store\Store\bin\Debug\Store.exe
+E:\Store\Store\bin\Debug\Store.pdb
+E:\Store\Store\obj\Debug\Store.csprojResolveAssemblyReference.cache
+E:\Store\Store\obj\Debug\Store.Form1.resources
+E:\Store\Store\obj\Debug\Store.Form2.resources
+E:\Store\Store\obj\Debug\Store.Properties.Resources.resources
+E:\Store\Store\obj\Debug\Store.csproj.GenerateResource.Cache
+E:\Store\Store\obj\Debug\Store.exe
+E:\Store\Store\obj\Debug\Store.pdb
+E:\Store\Store\obj\Debug\Store.csproj.CoreCompileInputs.cache
+D:\Store\Store\Store\bin\Debug\DatabaseStore.mdf
+D:\Store\Store\Store\bin\Debug\DatabaseStore_log.ldf
+D:\Store\Store\Store\bin\Debug\Store.exe.config
+D:\Store\Store\Store\bin\Debug\Store.exe
+D:\Store\Store\Store\bin\Debug\Store.pdb
+D:\Store\Store\Store\obj\Debug\Store.csprojResolveAssemblyReference.cache
+D:\Store\Store\Store\obj\Debug\Store.Form1.resources
+D:\Store\Store\Store\obj\Debug\Store.Form2.resources
+D:\Store\Store\Store\obj\Debug\Store.Properties.Resources.resources
+D:\Store\Store\Store\obj\Debug\Store.csproj.GenerateResource.cache
+D:\Store\Store\Store\obj\Debug\Store.csproj.CoreCompileInputs.cache
+D:\Store\Store\Store\obj\Debug\Store.exe
+D:\Store\Store\Store\obj\Debug\Store.pdb
